@@ -9,9 +9,9 @@ var headerText = document.querySelector('h1');
 var bodyText = document.querySelector('p');
 
 // so lazy cursor styles
-red.style.cursor = 'pointer'
-green.style.cursor = 'pointer'
-blue.style.cursor = 'pointer'
+red.style.cursor = 'pointer';
+green.style.cursor = 'pointer';
+blue.style.cursor = 'pointer';
 
 
 // default HTML content
